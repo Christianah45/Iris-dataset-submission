@@ -185,7 +185,7 @@ The experience strengthened skills in data analysis, machine learning, and deriv
 👤 Author
 
 Afuye Christianah Abolanle
-Aspiring Data Analyst | Python • Data Analysis • SQL • Power BI
+Data Analyst | Python • Data Analysis • SQL • Power BI
 
 GitHub: https://github.com/Christianah45
 
